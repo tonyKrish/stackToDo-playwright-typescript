@@ -7,8 +7,12 @@ const config: PlaywrightTestConfig = {
     headless: false,
     screenshot: 'only-on-failure',
   },
-  reporter:[["html",{
-    open: "always"}]]
+  reporter:[
+    ["html",{
+    open: "always"}],
+    ["json", {
+      outputFile: "jsonReports/jsonReport.json"}]
+  ]
 };
 
 export default config;
