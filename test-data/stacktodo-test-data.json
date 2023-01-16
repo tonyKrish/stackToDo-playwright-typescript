@@ -1,0 +1,20 @@
+{
+ 
+    "name":"testTony",
+    "email":"testtonyemail@test.com",
+    "password":"password",
+    "editedPassword":"password_edit",
+    "editedName":"testTonyEdit",
+    "loginEmailErrorText":"Please Enter a valid Email",
+    "loginPasswordErrorText":"Please Enter a valid Password",
+    "invalidLoginAlertText":"Sorry, invalid login",
+    "taskName":"SampleTask",
+
+    "editTaskPageTitle":"Edit Task - Flask-Starter-App",
+    "viewTaskPageTitle":"View Task - Flask-Starter-App",
+    "signUpPageTitle":"Sign Up - Flask-Starter-App",
+    "myTaskPageTitle":"My Tasks - Flask-Starter-App",
+    "loginPageTitle":"Login - Flask-Starter-App",
+    "updatePasswordPageTitle":"Update Password - Flask-Starter-App",
+    "updateProfilePageTitle":"Update Profile - Flask-Starter-App"
+}
